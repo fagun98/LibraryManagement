@@ -1,0 +1,8 @@
+Lee Ames,04/28/1931,leeames@juno.com,111-111-1111
+Shana Abe,01/05/1899,ShanaAbe@aol.com,111-111-1111
+Tony Abbott,21/10/1835,tonyabbott@sbcglobal.net,111-111-1111
+Peter Abrahams,05/05/1819,pa@cape.com,111-111-1111
+JK Rowling,12/24/1990,jkrowling@gmail.com,9999999999
+David Adler,06/17/1902,camj563@aol.com,111-111-1111
+Anna Adams,12/18/1896,anna@annaadams.net,111-111-1111
+Bruce Balan,11/16/1919,writeme@brucebalan.com,111-111-1111
